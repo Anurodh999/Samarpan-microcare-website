@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Samarpan-microcare-website/static/css/main.cd923e34.css",
+    "main.js": "/Samarpan-microcare-website/static/js/main.816ec41b.js",
+    "static/js/453.84d2e557.chunk.js": "/Samarpan-microcare-website/static/js/453.84d2e557.chunk.js",
+    "static/media/pic.jpg": "/Samarpan-microcare-website/static/media/pic.69d5fe1e1a34fb67cad2.jpg",
+    "static/media/samLogo.jpg": "/Samarpan-microcare-website/static/media/samLogo.1962c54bf924c46fcea9.jpg",
+    "index.html": "/Samarpan-microcare-website/index.html",
+    "main.cd923e34.css.map": "/Samarpan-microcare-website/static/css/main.cd923e34.css.map",
+    "main.816ec41b.js.map": "/Samarpan-microcare-website/static/js/main.816ec41b.js.map",
+    "453.84d2e557.chunk.js.map": "/Samarpan-microcare-website/static/js/453.84d2e557.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd923e34.css",
+    "static/js/main.816ec41b.js"
+  ]
+}
