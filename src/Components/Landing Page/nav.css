@@ -1,0 +1,62 @@
+.header-bg {
+    background: #036876;
+
+}
+
+
+
+.navbar-nav1 {
+    margin-left:100px;
+
+  }
+  .navbar-nav2 {
+    margin-right:30px;
+
+  }
+
+  .navbar-nav3 {
+    margin-left:20px;
+
+  }
+  
+
+  .navbar-nav4 {
+    font-size: 18px;
+  }
+
+  .card {
+    width: 676.12px;
+height: 530.01px;
+top: 86px;
+gap: 0px;
+opacity: 0px;
+
+  }
+
+  .card2 {
+    font-family: Poppins;
+font-size: 30px;
+font-weight: 700;
+line-height: 45px;
+text-align: left;
+
+  }
+
+  .card3 {
+    font-family: Poppins;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+
+  }
+ 
+  .card4 {
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+
+
+  }
