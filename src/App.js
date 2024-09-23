@@ -18,8 +18,8 @@ const App = () => {
     <BrowserRouter>
      
         <Routes>
-        <Route  path='/' element ={<About/>}/>
-        <Route path="/profile" element={<Profile/>} />
+        
+        <Route exact path="/Samarpan-microcare-website" element={<About/>} />
           <Route path="/dashboard" element={<Dashboard />} />
           <Route path="/navbar" element={<NavBar />} />
           <Route path="/comment" element={<Comment />} />
